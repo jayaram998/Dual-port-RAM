@@ -1,6 +1,6 @@
 Hi this is jayaram
 
-# Dual port RAM
+# Dual Port RAM
 
 I'm writing code verilog code for dual port RAM in EDA Playground 
 
